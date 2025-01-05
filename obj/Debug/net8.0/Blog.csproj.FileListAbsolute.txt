@@ -169,3 +169,4 @@ C:\Users\danie\projetos\Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\danie\projetos\Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\danie\projetos\Blog\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\danie\projetos\Blog\obj\Debug\net8.0\Blog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danie\projetos\Blog\obj\Debug\net8.0\Blog.sourcelink.json
