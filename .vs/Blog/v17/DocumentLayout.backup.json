@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\projetos\\Blog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|c:\\users\\danie\\projetos\\blog\\controllers\\homecontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|solutionrelative:controllers\\homecontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|c:\\users\\danie\\projetos\\blog\\data\\blogdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|solutionrelative:data\\blogdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|c:\\users\\danie\\projetos\\blog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|c:\\users\\danie\\projetos\\blog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|c:\\users\\danie\\projetos\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|c:\\users\\danie\\projetos\\blog\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|c:\\users\\danie\\projetos\\blog\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|c:\\users\\danie\\projetos\\blog\\controllers\\homecontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|solutionrelative:controllers\\homecontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|c:\\users\\danie\\projetos\\blog\\data\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68318F28-6D89-4F14-B4DE-0373FCFC8485}|Blog.csproj|solutionrelative:data\\mappings\\usermap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeControler.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\projetos\\Blog\\Controllers\\HomeControler.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeControler.cs",
-              "ToolTip": "C:\\Users\\danie\\projetos\\Blog\\Controllers\\HomeControler.cs",
-              "RelativeToolTip": "Controllers\\HomeControler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Title": "BlogDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\projetos\\Blog\\Data\\BlogDataContext.cs",
+              "RelativeDocumentMoniker": "Data\\BlogDataContext.cs",
+              "ToolTip": "C:\\Users\\danie\\projetos\\Blog\\Data\\BlogDataContext.cs",
+              "RelativeToolTip": "Data\\BlogDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T22:12:24.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\projetos\\Blog\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\danie\\projetos\\Blog\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAowF4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T22:11:38.352Z",
+              "WhenOpened": "2025-01-07T20:13:03.807Z",
               "EditorCaption": ""
             },
             {
@@ -57,12 +60,76 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\danie\\projetos\\Blog\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\danie\\projetos\\Blog\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T20:12:48.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\projetos\\Blog\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\danie\\projetos\\Blog\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T20:12:20.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danie\\projetos\\Blog\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\danie\\projetos\\Blog\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T20:12:16.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserMap.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\projetos\\Blog\\Data\\Mappings\\UserMap.cs",
+              "RelativeDocumentMoniker": "Data\\Mappings\\UserMap.cs",
+              "ToolTip": "C:\\Users\\danie\\projetos\\Blog\\Data\\Mappings\\UserMap.cs",
+              "RelativeToolTip": "Data\\Mappings\\UserMap.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:55:09.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeControler.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\projetos\\Blog\\Controllers\\HomeControler.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeControler.cs",
+              "ToolTip": "C:\\Users\\danie\\projetos\\Blog\\Controllers\\HomeControler.cs",
+              "RelativeToolTip": "Controllers\\HomeControler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T22:12:24.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\danie\\projetos\\Blog\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\danie\\projetos\\Blog\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T21:01:35.029Z",
               "EditorCaption": ""
